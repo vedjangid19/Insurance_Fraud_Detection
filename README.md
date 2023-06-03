@@ -1,2 +1,2 @@
-# Insurance_Fraud_Detection
+# Insurance Fraud Detection
 A classification methodology to determine whether a customer is placing a fraudulent insurance claim.
